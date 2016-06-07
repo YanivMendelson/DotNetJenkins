@@ -1,0 +1,10 @@
+C:\Work\DotNet\Jenkins\Jenkins\bin\Debug\Jenkins.dll
+C:\Work\DotNet\Jenkins\Jenkins\bin\Debug\Jenkins.pdb
+C:\Work\DotNet\Jenkins\Jenkins\obj\Debug\Jenkins.csprojResolveAssemblyReference.cache
+C:\Work\DotNet\Jenkins\Jenkins\obj\Debug\Jenkins.dll
+C:\Work\DotNet\Jenkins\Jenkins\obj\Debug\Jenkins.pdb
+C:\Work\DotNet\Jenkins\Jenkins\bin\Debug\WebDriver.dll
+C:\Work\DotNet\Jenkins\Jenkins\bin\Debug\WebDriver.xml
+C:\Work\DotNet\Jenkins\Jenkins\bin\Debug\WebDriver.Support.dll
+C:\Work\DotNet\Jenkins\Jenkins\bin\Debug\WebDriver.Support.xml
+C:\Work\DotNet\Jenkins\Jenkins\bin\Debug\chromedriver.exe

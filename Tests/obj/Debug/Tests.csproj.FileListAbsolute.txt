@@ -1,0 +1,13 @@
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\Tests.dll
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\Tests.pdb
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\DotNet\Jenkins\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Work\DotNet\Jenkins\Tests\obj\Debug\Tests.dll
+C:\Work\DotNet\Jenkins\Tests\obj\Debug\Tests.pdb
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\WebDriver.dll
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\WebDriver.xml
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\WebDriver.Support.dll
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\WebDriver.Support.xml
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\chromedriver.exe
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\Jenkins.dll
+C:\Work\DotNet\Jenkins\Tests\bin\Debug\Jenkins.pdb
